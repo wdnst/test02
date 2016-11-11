@@ -1,3 +1,7 @@
+/*****
+ * ƒRƒƒ“ƒg’Ç‰Á 
+ * (SJIS)
+ */
 #include <stdio.h>
 
 void main(void)
